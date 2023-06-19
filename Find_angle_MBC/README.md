@@ -1,4 +1,4 @@
-Find Angle MBC
+# Find Angle MBC
 
 ABC is a right triangle, 90°at B.
 Therefore, ABC = 90
